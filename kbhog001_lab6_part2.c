@@ -1,12 +1,14 @@
-/*	Author: Karan Bhogal
- *  Partner(s) Name: 
- *	Lab Section:21
- *	Assignment: Lab #5  Exercise #1
- *	Exercise Description: [optional - include for your own benefit]
+/* Author: Karan Bhogal
+ * Lab Section: 21
+ * Assignment: Lab #6  Exercise #2
+ * Exercise Description: [optional - include for your own benefit]
  *
- *	I acknowledge all content contained herein, excluding template or example
- *	code, is my own original work.
+ * I acknowledge all content contained herein, excluding template or example
+ * code is my own original work.
+ *
+ *  Demo Link:
  */
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #ifdef _SIMULATE_
